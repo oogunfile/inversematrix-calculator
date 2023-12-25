@@ -1,7 +1,9 @@
 # Inverse Matrix Calculator
 
 ## Description
-This repository contains a C++ implementation for calculating the inverse of a square matrix. The program is designed with efficiency in mind and utilizes optimized algorithms for matrix operations. It's intended for educational purposes, showcasing algorithmic implementation and can be used as a component in larger systems where matrix inversion is required.
+This repository contains a C++ implementation for calculating the inverse of a square matrix. The program is designed with efficiency in mind and utilizes optimized algorithms for matrix operations. It's intended for educational purposes, showcasing algorithmic implementation and can be used as a component in larger systems where matrix inversion is required. In this project, LU decomposition was used to find the inverse of a matrix. L is the lower triangle of a matrix and U is the upper triangle of the matrix. It is worth noting that P is a permutation matrix. 
+
+
 
 ## Features
 - Efficient inverse matrix computation
